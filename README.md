@@ -1,10 +1,3 @@
-# irfan-shaik-wasserstoff-AiTask
-RAG-based Query Suggestion Chatbot with Chain  of Thought for WordPress Sites
-Project Title: RAG-based Query Suggestion Chatbot with Chain of Thought for WordPress Sites
-
-# Project Overview:
-
-In the digital landscape where information is abundant, accessing relevant content efficiently is paramount. WordPress, being one of the most popular platforms for hosting websites and blogs, often faces the challenge of helping users navigate through vast amounts of content. To address this challenge, we propose the development of a sophisticated chatbot that leverages the power of Retrieval-Augmented Generation (RAG) combined with a strategic approach called Chain of Thought (CoT). This chatbot will seamlessly integrate into WordPress sites, enhancing user experience by providing intelligent query suggestions and maintaining logical, contextually relevant interactions.
 
 # Objective:
 
